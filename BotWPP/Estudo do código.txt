@@ -1,0 +1,9 @@
+# Automação que pode ir de R$500,00 a R$1.000,00
+
+# Como automatizar esse processo?
+ - Onde está feito (versão web)
+ - Quais tec. preciso pra resolver essa demanda?
+	. Teclado (Pyautogui)
+	. Acesso ao site (webbrowser)
+	. Automatizar digitação (link wpp)
+	. Automatizar leitura de dados de uma planilha (openpyxl)
